@@ -1,6 +1,3 @@
-I'll create a comprehensive markdown document for your edge detection project.
-
-```markdown
 # Edge Detection Project: Canny vs Sobel
 
 ## Complete Documentation
@@ -74,7 +71,6 @@ An edge in an image is characterized by a **significant change in pixel intensit
 #### 2.2.1 Step Edge
 A sudden transition from one intensity level to another.
 
-```
 Intensity Profile:
 |     ___________
 |    |
