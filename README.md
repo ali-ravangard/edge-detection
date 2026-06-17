@@ -71,34 +71,11 @@ An edge in an image is characterized by a **significant change in pixel intensit
 #### 2.2.1 Step Edge
 A sudden transition from one intensity level to another.
 
-Intensity Profile:
-|     ___________
-|    |
-|    |
-|____|
-     Position →
-
 #### 2.2.2 Ramp Edge
 A gradual transition between intensity levels.
 
-
-Intensity Profile:
-|         _____
-|       /
-|     /
-|___/
-     Position →
-
 #### 2.2.3 Ridge Edge
 A peak or valley in intensity.
-
-
-Intensity Profile:
-|      /\
-|     /  \
-|    /    \
-|___/      \___
-     Position →
 
 ### 2.3 Edge Detection Challenges
 
