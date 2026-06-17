@@ -173,32 +173,6 @@ This produces **connected edge contours**.
 
 ### 4.1 Directory Structure
 
-
-edge-detection-project/
-│
-├── README.md                    # Project Documentation
-├── requirements.txt             # Python dependencies
-│
-├── data/
-│   ├── input/                   # Input images directory
-│   │   └── sample.jpg
-│   └── output/                  # Results directory
-│       ├── *_grayscale.png
-│       ├── *_canny.png
-│       ├── *_sobel.png
-│       ├── *_comparison.png
-│       ├── *_edge_comparison.png
-│       └── *_statistics.png
-│
-├── src/
-│   ├── __init__.py              # Package initialization
-│   ├── edge_detector.py         # Core edge detection algorithms
-│   └── visualizer.py            # Visualization utilities
-│
-├── main.py                      # Main execution script
-
-### 4.1 Directory Structure
-
 edge-detection-project/
 
 │
